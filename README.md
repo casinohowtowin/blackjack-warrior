@@ -2,6 +2,13 @@
 <h2>Blackjack Warrior Software Introduction</h2>
 Blackjack Warrior is software produced to allow players to learn and master the strategy of the game. The software is designed to be used while playing a Blackjack game in an online casino. The software is based on a statistical algorithm that provides the best possible next move to a player. 
 
+<h2>Cards counting software explanation</h2>
+Card counting is considered cheating and is illegal in many casinos.
+
+However, there are various card counting software and apps available online. Some of these software programs claim to help users practice and improve their card counting skills, while others claim to provide real-time assistance during actual casino play.
+
+It is important to note that the use of card counting software or devices is illegal in many casinos and can lead to serious consequences, including being banned from the casino or facing legal action. It is always best to play fairly and ethically.
+
 <h2>Blackjack Warrior Software Algorithm</h2>
 There are two major factors analyzed and considered to make the best advice on the move: 
 <ul>
