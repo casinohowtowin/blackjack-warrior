@@ -23,14 +23,15 @@ Blackjack Warrior will suggest one of the following moves:
 <h2>Blackjack Warrior Software Interface</h2>
 
 We have introduced three functional windows in the interface of the program:
-1)	ADVICE - The first window is "Advice” and its job is to suggest a move.
-It allows a player to set the value of the dealer's open card, "Dealer card," and choose the value of his "Your hand" cards. Once it is done, a program will deliver the best suggestion for the next move to be taken.
+<ul>
+<li>ADVICE - The first window is "Advice” and its job is to suggest a move.
+It allows a player to set the value of the dealer's open card, "Dealer card," and choose the value of his "Your hand" cards. Once it is done, a program will deliver the best suggestion for the next move to be taken.</li>
 
-2)	ALGORITHM. The next window is the "Algorithm."
-In the algorithm window, we added a chart that covers the algorithm of the Blackjack Warrior program. The player can find a hint for the next move at the intersection of the value of the dealer's open card which is represented horizontally and the player’s cards which are represented vertically.
+<li>ALGORITHM. The next window is the "Algorithm."
+In the algorithm window, we added a chart that covers the algorithm of the Blackjack Warrior program. The player can find a hint for the next move at the intersection of the value of the dealer's open card which is represented horizontally and the player’s cards which are represented vertically.</li>
 
-3)	RECOMMENDED CASINOS. The third window is "Recommended casinos."
-In the "Recommended casinos" window, we added the best online casino options to play Blackjack while using the Blackjack Warrior software. We based the rating on many review websites that provide useful information about online casinos.
+<li>RECOMMENDED CASINOS. The third window is "Recommended casinos."
+In the "Recommended casinos" window, we added the best online casino options to play Blackjack while using the Blackjack Warrior software. We based the rating on many review websites that provide useful information about online casinos.</li></ul>
 
 Please note that the Blackjack Warrior software does not and will not guarantee any wins. The software is should only be used for educational purposes and as a supplementary tool to learn and master the strategy for playing Blackjack. We strongly suggest playing and gambling responsibly.
 
